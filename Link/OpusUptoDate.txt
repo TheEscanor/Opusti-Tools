@@ -1,0 +1,3 @@
+Show=New Update! Fix Bugs, Convert A3 to DayZ and Can automatically copy the texture and Rvmat file including change the link on the Rvmat as well.
+News
+G
